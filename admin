@@ -3,6 +3,6 @@
     "device_id": "1",
     "key": "mohammmad",
     "expirydate": "01-01-2029",
-    "Allowoffline": true
+    "Allowoffline": false
   }
 ]
