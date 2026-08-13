@@ -4,5 +4,11 @@
     "key": "mohammmad",
     "expirydate": "01-01-2029",
     "Allowoffline": false
+  },
+  {
+    "device_id": "2",
+    "key": "ali",
+    "expirydate": "01-01-2029",
+    "Allowoffline": true
   }
 ]
